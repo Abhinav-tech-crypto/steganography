@@ -1,5 +1,8 @@
 # Adaptive LSB Steganography
 
+[![tests](https://github.com/Abhinav-tech-crypto/steganography/actions/workflows/tests.yml/badge.svg)](https://github.com/Abhinav-tech-crypto/steganography/actions/workflows/tests.yml)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Hide a text message inside a PNG by tweaking the least significant bit of
 selected pixels. A Random Forest picks *which* pixels, preferring busy,
 textured regions where a flipped bit does not show.
